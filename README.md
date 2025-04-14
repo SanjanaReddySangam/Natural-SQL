@@ -193,4 +193,4 @@ Ideas, bugs, and suggestions are welcome via [issues](https://github.com/Sanjana
 
 ## 📄 License
 
-MIT License © 2024 [Sanjana Reddy Sangam](https://github.com/SanjanaReddySangam)
+MIT License © 2025 [Sanjana Reddy Sangam](https://github.com/SanjanaReddySangam)
